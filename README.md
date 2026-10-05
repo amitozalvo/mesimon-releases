@@ -11,7 +11,7 @@ Your agent is the real Claude Code or Codex, in its own terminal: step into it a
 same prompt, the same slash commands and the same permission dialogs, and mesimon never sits
 between you and it.
 
-**Alpha.** It works and it is used every day, and it will change under you.
+**Beta.** It is used every day, and it still changes under you.
 
 ## Install
 
@@ -37,6 +37,10 @@ Code or Codex, signed in. On Linux you also need tmux 3.3 or newer; on macOS mes
 own. [Requirements in detail](https://github.com/amitozalvo/mesimon/blob/main/docs/USING.md#requirements).
 
 Re-running the install line is how you update. With Homebrew, `brew upgrade mesimon`.
+
+**Answer your agents from your phone.** Remote Control pairs a phone or another browser to your
+board, so a permission, a question or a plan can be answered from wherever you are.
+[More on mesimon.dev](https://mesimon.dev/#remote).
 
 ## Three promises
 
